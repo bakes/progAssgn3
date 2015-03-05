@@ -1,0 +1,52 @@
+dependencies: \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/GeolocationModule.m \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/GeolocationModule.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiModule.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiProxy.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiBase.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiThreading.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiPublicAPI.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiEvaluator.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/KrollContext.h \
+  headers/JavaScriptCore/TiCore.h headers/JavaScriptCore/Ti.h \
+  headers/JavaScriptCore/TiBase.h headers/JavaScriptCore/TiContextRef.h \
+  headers/JavaScriptCore/TiObjectRef.h \
+  headers/JavaScriptCore/TiValueRef.h \
+  headers/JavaScriptCore/WebKitAvailability.h \
+  headers/JavaScriptCore/TiStringRef.h \
+  headers/JavaScriptCore/TiStringRefCF.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/KrollCallback.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/KrollObject.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiUtils.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiDimension.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiColor.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/WebFont.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiFile.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiBuffer.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiBlob.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/APSHTTPClient/APSHTTPClient.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/APSHTTPClient/APSHTTPRequest.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/APSHTTPClient/APSHTTPResponse.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/APSHTTPClient/APSHTTPPostForm.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/APSHTTPClient/APSHTTPHelper.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiApp.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiHost.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/Bridge.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiStylesheet.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/KrollBridge.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/XHRBridge.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiRootViewController.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiControllerProtocols.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiViewProxy.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiUIView.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiAnimation.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiPoint.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/ListenerEntry.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/LayoutConstraint.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiGradient.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiRect.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/TiViewTemplate.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/SBJSON.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/NSData+Additions.h \
+  /Users/leveleth/Documents/Titanium_Studio_Workspace/pa2/build/iphone/Classes/APSAnalytics/APSAnalytics.h
